@@ -1,3 +1,14 @@
+/**
+ * bashcleaner
+ * A bash history cleanup utility
+ *
+ * @author      Phill Fernandes <phillfernandes92@gmail.com>
+ * @copyright   2012 Phill Fernandes
+ * @link        http://www.sachemsoftworks.com/projects/bashcleaner
+ * @license     GNU GPL Version 3, see http://www.gnu.org/licenses/gpl-3.0-standalone.html
+ * @version     1.0
+ */
+
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
