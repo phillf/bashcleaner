@@ -1,0 +1,18 @@
+if [ "$(id -u)" != "0" ]; then
+        echo "Sorry, you are not root."
+        sleep 2
+exit 1
+fi
+
+clear
+echo "Installing bashcleaner... Please wait..."
+cd ../code
+g++ main.cpp -o exec
+cp exec ../bin/bashcleaner$1
+mv exec /usr/bin/bashcleaner
+
+sleep 3
+clear
+echo "Congratulations! You can now run "bashcleaner" from CLI."
+sleep 3
+clear
