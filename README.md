@@ -1,7 +1,7 @@
 bashcleaner
 ===========
 
-Thank you for your interest in **bashcleaner**. This utility is releases under the GPLv3 license.
+Thank you for your interest in **bashcleaner**. This utility is released under the GPLv3 license.
 
 About bashcleaner
 -----------------
