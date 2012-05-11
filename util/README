@@ -1,0 +1,13 @@
+In this directory run 'chmod +x *' (you may have to do this as 'sudo')
+
+To compile and install the mac version run ./mac
+			or
+To compile and install the ubuntu version run ./ubuntu
+
+If you just want to compile the program to see if there are anny
+errors in your code just 'cd' into the 'code' directory and run:
+'g++ main.cpp -o bashcleaner'
+
+If you do the above please don't add the executable to the SVN but use the
+compile and install scripts provided. It is recomended that run these scripts
+as root or 'sudo' the scripts.

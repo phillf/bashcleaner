@@ -1,0 +1,4 @@
+cd ../code
+clear
+g++ main.cpp -o bashcleaner
+mv bashcleaner ../bin/bashcleaner-ubuntu
